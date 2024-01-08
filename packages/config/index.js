@@ -1,3 +1,4 @@
 module.exports = {
-  vite: require('./vite')
+  vite: require('./vite'),
+  eslint: require('./eslint'),
 };
