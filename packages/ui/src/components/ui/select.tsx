@@ -2,7 +2,6 @@
 
 import * as React from "react"
 import {
-  CaretSortIcon,
   CheckIcon,
   ChevronDownIcon,
   ChevronUpIcon,
@@ -10,8 +9,6 @@ import {
 import * as SelectPrimitive from "@radix-ui/react-select"
 
 import { cn } from "../../lib/utils"
-
-// const Select = SelectPrimitive.Root
 
 const SelectGroup = SelectPrimitive.Group
 
@@ -162,15 +159,3 @@ export const Select = Object.assign(SelectPrimitive.Root, {
   ScrollDownButton: SelectScrollDownButton,
 });
 
-// export {
-//   Select,
-//   SelectGroup,
-//   SelectValue,
-//   SelectTrigger,
-//   SelectContent,
-//   SelectLabel,
-//   SelectItem,
-//   SelectSeparator,
-//   SelectScrollUpButton,
-//   SelectScrollDownButton,
-// }
