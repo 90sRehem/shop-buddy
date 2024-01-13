@@ -1,4 +1,4 @@
-import { Button, Input, Label, Select } from "ui";
+import { Input, Label, Select } from "ui";
 
 /* 
   states:
@@ -16,7 +16,7 @@ export function UnityDropdown() {
       >
         Quantidade
       </Label>
-      <div className=" rounded-md shadow-sm flex border border-gray-300">
+      <div className="rounded-md shadow-sm flex border border-gray-300">
         <Input
           type="text"
           name="unit"

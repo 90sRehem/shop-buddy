@@ -48,19 +48,19 @@
     --gray-500: 240, 3%, 7%, 1;
     --gray-600: 240, 4%, 5%, 1;
 
-    --success: 133, 42%, 32%, 1;
-    --success-light: 133, 32%, 45%, 1;
+    --product-success: 133, 42%, 32%, 1;
+    --product-success-light: 133, 32%, 45%, 1;
 
-    --pink: 313, 64%, 61%, 1;
-    --orange: 10, 66%, 64%, 1;
-    --yellow: 47, 53%, 48%, 1;
-    --green: 81, 36%, 50%, 1;
-    --blue: 221, 44%, 64%, 1;
-    --pink-dark: 312, 25%, 12%, 1;
-    --orange-dark: 12, 25%, 12%, 1;
-    --yellow-dark: 48, 29%, 10%, 1;
-    --green-dark: 82, 21%, 10%, 1;
-    --blue-dark: 220, 15%, 12%, 1;
+    --product-pink: 313, 64%, 61%, 1;
+    --product-orange: 10, 66%, 64%, 1;
+    --product-yellow: 47, 53%, 48%, 1;
+    --product-green: 81, 36%, 50%, 1;
+    --product-blue: 221, 44%, 64%, 1;
+    --product-pink-dark: 312, 25%, 12%, 1;
+    --product-orange-dark: 12, 25%, 12%, 1;
+    --product-yellow-dark: 48, 29%, 10%, 1;
+    --product-green-dark: 82, 21%, 10%, 1;
+    --product-blue-dark: 220, 15%, 12%, 1;
   }
 
   .dark {

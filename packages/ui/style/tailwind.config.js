@@ -46,6 +46,24 @@ module.exports = function (app, options) {
           'product-purple': 'hsl(var(--product-purple))',
           "product-purple-light": "hsl(var(--product-purple-light))",
           "product-purple-dark": "hsl(var(--product-purple-dark))",
+          "product-orange": "hsl(var(--product-orange))",
+          "product-orange-dark": "hsl(var(--product-orange-dark))",
+          "product-yellow": "hsl(var(--product-yellow))",
+          "product-yellow-dark": "hsl(var(--product-yellow-dark))",
+          "product-green": "hsl(var(--product-green))",
+          "product-green-dark": "hsl(var(--product-green-dark))",
+          "product-blue": "hsl(var(--product-blue))",
+          "product-blue-dark": "hsl(var(--product-blue-dark))",
+          "product-pink": "hsl(var(--product-pink))",
+          "product-pink-dark": "hsl(var(--product-pink-dark))",
+          "product-success": "hsl(var(--product-success))",
+          "product-success-light": "hsl(var(--product-success-light))",
+          "gray-100": "hsl(var(--gray-100))",
+          "gray-200": "hsl(var(--gray-200))",
+          "gray-300": "hsl(var(--gray-300))",
+          "gray-400": "hsl(var(--gray-400))",
+          "gray-500": "hsl(var(--gray-500))",
+          "gray-600": "hsl(var(--gray-600))",
           primary: {
             DEFAULT: "hsl(var(--primary))",
             foreground: "hsl(var(--primary-foreground))",
@@ -73,43 +91,6 @@ module.exports = function (app, options) {
           card: {
             DEFAULT: "hsl(var(--card))",
             foreground: "hsl(var(--card-foreground))",
-          },
-          purple: {
-            DEFAULT: "hsl(var(--purple))",
-            light: "hsl(var(--purple-light))",
-            dark: "hsl(var(--purple-dark))",
-          },
-          gray: {
-            "100": "hsl(var(--gray-100))",
-            "200": "hsl(var(--gray-200))",
-            "300": "hsl(var(--gray-300))",
-            "400": "hsl(var(--gray-400))",
-            "500": "hsl(var(--gray-500))",
-            "600": "hsl(var(--gray-600))",
-          },
-          success: {
-            DEFAULT: "hsl(var(--success))",
-            "success-light": "hsl(var(--success-light))",
-          },
-          pink: {
-            DEFAULT: "hsl(var(--pink))",
-            "pink-dark": "hsl(var(--pink-dark))",
-          },
-          orange: {
-            DEFAULT: "hsl(var(--orange))",
-            "orange-dark": "hsl(var(--orange-dark))",
-          },
-          yellow: {
-            DEFAULT: "hsl(var(--yellow))",
-            "yellow-dark": "hsl(var(--yellow-dark))",
-          },
-          green: {
-            DEFAULT: "hsl(var(--green))",
-            "green-dark": "hsl(var(--green-dark))",
-          },
-          blue: {
-            DEFAULT: "hsl(var(--blue))",
-            "blue-dark": "hsl(var(--blue-dark))",
           },
         },
         borderRadius: {
